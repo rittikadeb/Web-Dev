@@ -1,5 +1,9 @@
-# Hangman
+### Hangman
  ``Hangman`` game is a word guessing game.
-*  Used JAVASCRIPT to build a very simple ``HANGMAN``like game.
- 
-<img src="https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/blob/main/Hangman/Hangman.png" width="880">
+
+### Tech Stack Used
+*  HTML
+*  CSS
+*  Javascript
+  
+ ![image](https://github.com/Kushal997-das/Project-Guidance/assets/76259897/ad5487f9-822b-4b64-b1d7-4edafb7760ac)
