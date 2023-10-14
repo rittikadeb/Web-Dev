@@ -6,4 +6,5 @@
 *  CSS
 *  Javascript
   
- ![image](https://github.com/Kushal997-das/Project-Guidance/assets/76259897/ad5487f9-822b-4b64-b1d7-4edafb7760ac)
+ ![image](https://github.com/rittikadeb/Web-Dev/assets/76259897/3cd79da3-6df2-4e91-b282-04b6bc8ef4e8)
+
